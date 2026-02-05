@@ -32,5 +32,3 @@ Para tornar este projeto ainda mais completo, pretendo adicionar futuramente:
 [ ] Validação de campos em tempo real com JavaScript.
 
 [ ] Criptografia de senhas para maior segurança.
-
-✨ Conheça também o meu Portfólio onde listo minhas principais competências e projetos.
